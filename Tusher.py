@@ -22,7 +22,7 @@ plt.rcParams["text.color"] = "black"
 
 
 
-df2=pd.read_excel("C:\Users\Deeptarka.Roy\Desktop\GUI for Thesis\Fiber Flexural Strength.xlsx")
+df2=pd.read_excel("C:/Users\Deeptarka.Roy\Desktop\GUI for Thesis\Fiber Flexural Strength.xlsx")
 df2.head(10)
 
 def user_input_features():
